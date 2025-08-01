@@ -6,6 +6,14 @@ Git config –-global user.email  “sanjeev@gmail.com” <br>
 Git config –list <br>
 
 <h1>Remote vs Local</h1>
+remote means code on github<br>
+local means code on our machine<br>
+
+clone - Cloning a repository on our local machine<br>
+
+git clone <- some link-><br>
+status - displays the state of our code<br>
+git status 
 
 git commit  -m "Sanjeev first time update"
 git add .
