@@ -5,7 +5,7 @@ Git config -–global user.name “Sanjeev” <br>
 Git config –-global user.email  “sanjeev@gmail.com” <br>
 Git config –list <br>
 
-Remote vs Local
+<h1>Remote vs Local</h1>
 
 git commit  -m "Sanjeev first time update"
 git add .
