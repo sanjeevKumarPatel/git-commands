@@ -1,11 +1,9 @@
 # git-commands
-
-Git Configuration
-
-Git --version
-Git config –global user.name “Sanjeev”
-Git config –global user.email  “sanjeev@san.com”
-Git config –list
+<h1>Git Configuration</h1>
+Git --version <br>
+Git config -–global user.name “Sanjeev” <br>
+Git config –-global user.email  “sanjeev@gmail.com” <br>
+Git config –list <br>
 
 Remote vs Local
 
